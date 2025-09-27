@@ -3,7 +3,7 @@ Samesta College Website - README
 A fully responsive multi-page college website built with vanilla HTML, CSS, and JavaScript. This project features a modern digital agency aesthetic tailored for educational institutions, with seamless Netlify deployment.
 🚀 Live Demo
 
-Live Site: https://your-modern-college.netlify.app
+Live Site: https://samestacollege.netlify.app/
 
 📋 Project Overview
 Samesta College website is a professional, responsive web platform designed to showcase academic programs, campus events, student testimonials, and provide comprehensive information about the institution. Built with pure vanilla technologies for optimal performance and easy customization.
@@ -51,15 +51,15 @@ Local Development
 1.	Clone or Download the Project
 bash
 # If using git
-git clone https://github.com/your-username/modern-college-website.git
-cd modern-college-website
+git clone https://github.com/samoyuga/Final-Project-and-Deployment-July-2025.git
+cd Final-Project-and-Deployment-July-2025
 2.	Open in Browser
 o	Simply open index.html in your web browser
 o	No build process or dependencies required
 3.	Customize Content
 o	Edit HTML files directly for content changes
-o	Modify css/style.css for styling changes
-o	Update js/main.js for functionality changes
+o	Modify styles/styles.css for styling changes
+o	Update script/script.js for functionality changes
 🌐 Netlify Deployment
 Method 1: Drag & Drop (Simplest)
 1.	Compress all project files into a ZIP folder
@@ -152,4 +152,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 •	v1.0 (Current) - Initial release with multi-page structure
 •	Planned: Blog integration, student portal, event calendar
 ________________________________________
-Built with ❤️ for modern education | Deployed with Netlify
+Built with ❤️ for Samesta education | Deployed with Netlify
